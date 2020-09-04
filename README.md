@@ -4,7 +4,7 @@
 ## Unsere Repositories haben wir in Organisationen gegliedert:
 ### 🛠 ⛑ 📏 Werkzeuge und Tools
 https://github.com/iks-gmbh-tools  
-_Nützliche Entwicklerwerkzeuge_
+_Nützliche Werkzeuge für die Softwareentwicklung und darüber hinaus_
 #
 ### ⚗️ 📝 🎓 Workshops
 https://github.com/iks-gmbh-workshops  
@@ -12,4 +12,8 @@ _Repositories unserer Workshops_
 #
 ### 👩‍💻 📈 ⏱ Projekte
 https://github.com/iks-gmbh-projects  
-_Ausbildungsprojekte, Testprojekte und Projekte zur Weiterbildung, Coding Dojos und weitere kleine Projekte_
+_Ausbildungs- und Testprojekte_
+#
+### ⛳️ 🎡 🛴 Spielwiese
+https://github.com/iks-gmbh-playground  
+_Weiterbildung- und Lernrepositories, Coding Dojos_
