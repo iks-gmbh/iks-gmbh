@@ -2,9 +2,9 @@
   
   
 ## Unsere Repositories haben wir in Organisationen gegliedert:
-### 🛠 ⛑ 📐 Werkzeuge und Tools
+### 🛠 ⛑ 📐 Tools
 https://github.com/iks-gmbh-tools  
-_Nützliche Werkzeuge für die Softwareentwicklung und darüber hinaus_
+_Nützliche Tools für die Softwareentwicklung und darüber hinaus_
 #
 ### ⚗️ 📝 🎓 Workshops
 https://github.com/iks-gmbh-workshops  
